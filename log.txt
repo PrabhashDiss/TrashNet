@@ -1,0 +1,76 @@
+Found 2317 images belonging to 6 classes.
+Found 180 images belonging to 6 classes.
+Found 30 images belonging to 6 classes.
+Downloading data from https://storage.googleapis.com/tensorflow/keras-applications/mobilenet/mobilenet_1_0_224_tf.htf.h5
+17225924/17225924 [==============================] - 104s 6us/step
+Epoch 1/30
+232/232 - 59s - loss: 0.7472 - accuracy: 0.7285 - val_loss: 0.6171 - val_accuracy: 0.7722 - 59s/epoch - 253ms/step
+Epoch 2/30
+232/232 - 55s - loss: 0.2620 - accuracy: 0.9206 - val_loss: 0.7283 - val_accuracy: 0.7722 - 55s/epoch - 237ms/step
+Epoch 3/30
+232/232 - 58s - loss: 0.1570 - accuracy: 0.9633 - val_loss: 0.4413 - val_accuracy: 0.8667 - 58s/epoch - 249ms/step
+Epoch 4/30
+232/232 - 62s - loss: 0.0999 - accuracy: 0.9767 - val_loss: 0.6326 - val_accuracy: 0.7778 - 62s/epoch - 269ms/step
+Epoch 5/30
+232/232 - 62s - loss: 0.0801 - accuracy: 0.9849 - val_loss: 0.3805 - val_accuracy: 0.9056 - 62s/epoch - 268ms/step
+Epoch 6/30
+232/232 - 58s - loss: 0.0561 - accuracy: 0.9918 - val_loss: 0.5087 - val_accuracy: 0.8556 - 58s/epoch - 249ms/step
+Epoch 7/30
+232/232 - 58s - loss: 0.0435 - accuracy: 0.9922 - val_loss: 0.3897 - val_accuracy: 0.8944 - 58s/epoch - 248ms/step
+Epoch 8/30
+232/232 - 57s - loss: 0.0459 - accuracy: 0.9909 - val_loss: 0.7659 - val_accuracy: 0.7889 - 57s/epoch - 245ms/step
+Epoch 9/30
+232/232 - 57s - loss: 0.0388 - accuracy: 0.9927 - val_loss: 0.4047 - val_accuracy: 0.9000 - 57s/epoch - 246ms/step
+Epoch 10/30
+232/232 - 58s - loss: 0.0484 - accuracy: 0.9879 - val_loss: 0.3024 - val_accuracy: 0.9222 - 58s/epoch - 248ms/step
+Epoch 11/30
+232/232 - 53s - loss: 0.0320 - accuracy: 0.9931 - val_loss: 0.5349 - val_accuracy: 0.8722 - 53s/epoch - 229ms/step
+Epoch 12/30
+232/232 - 53s - loss: 0.0257 - accuracy: 0.9953 - val_loss: 0.4140 - val_accuracy: 0.8778 - 53s/epoch - 227ms/step
+Epoch 13/30
+232/232 - 54s - loss: 0.0259 - accuracy: 0.9935 - val_loss: 0.4301 - val_accuracy: 0.9000 - 54s/epoch - 231ms/step
+Epoch 14/30
+232/232 - 63s - loss: 0.0307 - accuracy: 0.9918 - val_loss: 0.6645 - val_accuracy: 0.8444 - 63s/epoch - 270ms/step
+Epoch 15/30
+232/232 - 63s - loss: 0.0305 - accuracy: 0.9931 - val_loss: 0.5082 - val_accuracy: 0.8667 - 63s/epoch - 271ms/step
+Epoch 16/30
+232/232 - 66s - loss: 0.0298 - accuracy: 0.9944 - val_loss: 0.7060 - val_accuracy: 0.8111 - 66s/epoch - 285ms/step
+Epoch 17/30
+232/232 - 63s - loss: 0.0442 - accuracy: 0.9845 - val_loss: 1.0025 - val_accuracy: 0.7722 - 63s/epoch - 271ms/step
+Epoch 18/30
+232/232 - 57s - loss: 0.0239 - accuracy: 0.9948 - val_loss: 0.6609 - val_accuracy: 0.8444 - 57s/epoch - 244ms/step
+Epoch 19/30
+232/232 - 62s - loss: 0.0201 - accuracy: 0.9957 - val_loss: 0.4493 - val_accuracy: 0.8833 - 62s/epoch - 267ms/step
+Epoch 20/30
+232/232 - 63s - loss: 0.0216 - accuracy: 0.9948 - val_loss: 1.2502 - val_accuracy: 0.7667 - 63s/epoch - 270ms/step
+Epoch 21/30
+232/232 - 63s - loss: 0.0138 - accuracy: 0.9957 - val_loss: 0.5576 - val_accuracy: 0.8500 - 63s/epoch - 272ms/step
+Epoch 22/30
+232/232 - 64s - loss: 0.0163 - accuracy: 0.9961 - val_loss: 0.5781 - val_accuracy: 0.8722 - 64s/epoch - 278ms/step
+Epoch 23/30
+232/232 - 64s - loss: 0.0240 - accuracy: 0.9940 - val_loss: 0.5857 - val_accuracy: 0.8778 - 64s/epoch - 274ms/step
+Epoch 24/30
+232/232 - 58s - loss: 0.0186 - accuracy: 0.9957 - val_loss: 0.5742 - val_accuracy: 0.8889 - 58s/epoch - 250ms/step
+Epoch 25/30
+232/232 - 57s - loss: 0.0151 - accuracy: 0.9961 - val_loss: 0.4826 - val_accuracy: 0.8833 - 57s/epoch - 244ms/step
+Epoch 26/30
+232/232 - 54s - loss: 0.0108 - accuracy: 0.9974 - val_loss: 0.5218 - val_accuracy: 0.8833 - 54s/epoch - 231ms/step
+Epoch 27/30
+232/232 - 54s - loss: 0.0168 - accuracy: 0.9948 - val_loss: 0.4271 - val_accuracy: 0.8889 - 54s/epoch - 231ms/step
+Epoch 28/30
+232/232 - 59s - loss: 0.0179 - accuracy: 0.9931 - val_loss: 1.0567 - val_accuracy: 0.7889 - 59s/epoch - 256ms/step
+Epoch 29/30
+232/232 - 58s - loss: 0.0216 - accuracy: 0.9953 - val_loss: 0.8538 - val_accuracy: 0.8611 - 58s/epoch - 249ms/step
+Epoch 30/30
+232/232 - 58s - loss: 0.0230 - accuracy: 0.9935 - val_loss: 0.8788 - val_accuracy: 0.8111 - 58s/epoch - 251ms/step
+Warning: QT_DEVICE_PIXEL_RATIO is deprecated. Instead use:
+   QT_AUTO_SCREEN_SCALE_FACTOR to enable platform plugin controlled per-screen factors.
+   QT_SCREEN_SCALE_FACTORS to set per-screen factors.
+   QT_SCALE_FACTOR to set the application global scale factor.
+Confusion Matrix, without normalization
+[[5 0 0 0 0 0]
+ [0 5 0 0 0 0]
+ [0 0 5 0 0 0]
+ [0 0 0 4 0 1]
+ [0 0 0 0 5 0]
+ [0 0 0 0 0 5]]
